@@ -4,7 +4,7 @@ My solutions to the [Advent of Code 2020](https://adventofcode.com/2020) problem
 
 | Solutions                               | Lang       |      |
 | --------------------------------------- | ---------- | ---- |
-| Day 01: ...                             | ...        | ...  |
+| Day 01: ...                             | ...        |  **  |
 | Day 02: ...                             | ...        | ...  |
 | Day 03: ...                             | ...        | ...  |
 | Day 04: ...                             | ...        | ...  |
