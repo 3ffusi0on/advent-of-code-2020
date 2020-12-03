@@ -8,7 +8,7 @@ class Day01 {
 
     fun solveAll() {
         init()
-//        println(solve1(values.toMutableList()))
+        println(solve1(values.toMutableList()))
         println(solve2(values.toMutableList()))
     }
 
