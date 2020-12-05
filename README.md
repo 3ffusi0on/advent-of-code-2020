@@ -7,7 +7,7 @@ My solutions to the [Advent of Code 2020](https://adventofcode.com/2020) problem
 | [Day 01](./src/day01/)                  | Kotlin     |  **  |
 | [Day 02](./src/day02/)                  | Kotlin     |  **  |
 | [Day 03](./src/day03/)                  | Kotlin     |  **  |
-| Day 04: ...                             | ...        | ...  |
+| [Day 04](./src/day04/)                  | Kotlin     |  **  |
 | Day 05: ...                             | ...        | ...  |
 | Day 06: ...                             | ...        | ...  |
 | Day 07: ...                             | ...        | ...  |
