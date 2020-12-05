@@ -3,7 +3,7 @@ package day03
 import java.io.File
 
 class Map(blueprint: String) {
-    var content: List<String> = File(blueprint).readLines();
+    private var content: List<String> = File(blueprint).readLines();
     var length = content[0].length
     var height = content.size
 
