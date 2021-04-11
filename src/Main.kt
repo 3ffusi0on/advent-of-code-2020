@@ -14,6 +14,7 @@ fun main() {
 //    (Day04()).solveAll()
 //    (Day05()).solveAll()
 //    (Day06()).solveAll()
-//    (Day07()).solveAll()
-    (Day08()).solveAll()
+    (Day07()).solveAll()
+//    (Day08()).solveAll()
+//    (Day09()).solveAll()
 }
